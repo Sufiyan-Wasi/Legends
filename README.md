@@ -3,7 +3,7 @@ Index.html
 <html>
 <head>
   <title>Team Portfolio</title>
-  <link rel="stylesheet" href="style.css"
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
